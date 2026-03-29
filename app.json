@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Baby Friendly Places",
+    "slug": "baby-friendly-places",
+    "scheme": "babyfriendly",
+    "plugins": [
+      "expo-router",
+      "expo-asset"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
